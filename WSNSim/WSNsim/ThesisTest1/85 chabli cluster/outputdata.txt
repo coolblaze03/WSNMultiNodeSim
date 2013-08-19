@@ -1,0 +1,10 @@
+Sensor nodes started with 100 joules of energy
+Sensor network died at cycle: 506444
+41		 Time in Hours: 255.78
+		 Time in Days: 10.6575
+Suppose that all nodes use two AA NiMH battery, each with 9072 joule. The total supply is 18144 joule, according to http://www.allaboutbatteries.com/Energy-tables.html.
+Below is the lifelifetime when using AAA NiMH batteries.
+4345		 Lifetime in Hours: 46408.7
+		 Lifetime in Days: 1933.7
+
+Total # of messages Received: 372909
